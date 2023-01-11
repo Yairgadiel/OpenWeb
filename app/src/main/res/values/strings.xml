@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pokemons</string>
+    <string name="welcome_title">Welcome</string>
+    <string name="welcome_message">Welcome to OpenWeb interview 🙂\n\nWe are going to build a simple app which will show all the pokémons\n\n• There will be a title, a description and an horizontal list of pokémons.\n• The user can tap each pokémon and see more details about it in a separate screen.\n• A service which return the pokémons and `Pokemon` structure already developed and created for you.\n• Your job is to use them and build this app.\n• You can use any 3rd party libraries you would like.\n• The app should support all orientations. Tablets can be ignored.\n\nGood luck!</string>
+
+    <string name="app_desc">This is the greatest app about pokemons!</string>
+    <string name="pokemons_title">Pokemons</string>
+    <string name="pokemon_thumbnail_cd">Pokemon thumbnail</string>
+    <string name="begin">begin</string>
+
+    <string name="pokemon_title">Pokemon</string>
+
+</resources>
